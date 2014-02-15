@@ -31,8 +31,8 @@ The nice custom 3D modeled apron buildings from this source are preserved withou
 * Added dirt landclass around the runway and to the East, as per Google Earth imagery
 * Added flatten and autogen exclusion polygons
 * Added hold short line as per Google Earth imagery
-* Added a parking stand on the apron (GA, 10m radius)
-* Added a windsock next to the twy/rwy intersection
+* Added a parking stand and starting position on the apron (GA, 10m radius)
+* Added a functional windsock next to the twy/rwy intersection
 * Added small turnaround pad (asphalt) to rwy 35 as per Google Earth imagery
 * Added small boundary fence
 
