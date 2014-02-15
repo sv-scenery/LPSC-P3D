@@ -2,17 +2,19 @@
 
 ## Download
 
-Download the latest package revision (zip) from [here].
+Download the latest package revision (zip) from [here](https://github.com/sv-scenery/LPSC-P3D/archive/master.zip) (or click the download as ZIP button to the right).
 
 ## Description
 
 This is a P3D-compiled revamped version of LPSC, compatible with ORBX FTX Global.
+
 Should be also compatible with FSX and P3Dv2, although not tested.
 
 ## Original Source
 
 This scenery revision is based on this original package (author unknown):
 http://www.airsim.net/ppp/LPSC_LPSR_FSX.zip 
+
 The nice custom 3D modeled apron buildings from this source are preserved without changes.
 
 ## Ground layout changes
@@ -34,7 +36,7 @@ The nice custom 3D modeled apron buildings from this source are preserved withou
 
 ## Additional objects
 
-_These extra objects require the latest ORBX Libraries. Download from http://fullterrain.com/support.html _
+_These extra objects require the latest ORBX Libraries. Download from:_ http://fullterrain.com/support.html
 
 * People on the apron
 * Static aircraft (off the apron)
