@@ -2,7 +2,7 @@
 
 ## Download
 
-Download the latest package revision (zip) from [here](https://github.com/sv-scenery/LPSC-P3D/archive/master.zip) (or click the download as ZIP button to the right).
+Download the latest package revision (zip) from [here](https://github.com/sv-scenery/LPSC-P3D/archive/master.zip) (or click the "Download ZIP" button to the right).
 
 ## Description
 
