@@ -1,14 +1,16 @@
 # LPSC - Santa Cruz (P3D + FTX Global)
 
-## Download
-
-Download the latest package revision (zip) from [here](https://github.com/sv-scenery/LPSC-P3D/archive/master.zip) (or click the "Download ZIP" button to the right).
-
 ## Description
 
 This is a P3D-compiled revamped version of LPSC, compatible with ORBX FTX Global.
 
 Should be also compatible with FSX and P3Dv2, although not tested.
+
+## Download and Installation
+
+Download the latest package revision (zip) from [here](https://github.com/sv-scenery/LPSC-P3D/archive/master.zip) (or click the "Download ZIP" button to the right).
+
+To install, unzip and copy the folder into your simulator Addon Scenery folder. Add to scenery library as usual.
 
 ## Original Source
 
