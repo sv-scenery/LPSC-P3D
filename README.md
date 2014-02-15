@@ -14,7 +14,7 @@ To install, unzip and copy the folder into your simulator Addon Scenery folder. 
 
 ## Original Source
 
-This scenery revision is based on this original package (author unknown):
+This scenery revision is based on the original package by __PPP Team__:
 http://www.airsim.net/ppp/LPSC_LPSR_FSX.zip 
 
 The nice custom 3D modeled apron buildings from this source are preserved without changes.
@@ -42,6 +42,7 @@ _These extra objects require the latest ORBX Libraries. Download from:_ http://f
 
 * People on the apron
 * Static aircraft (off the apron)
+* Cars on the parking in front of the terminal
 * Dry vegetation and 3D grass around the runway and south of the apron
 * Cracks and stains
 * Other minor clutter
